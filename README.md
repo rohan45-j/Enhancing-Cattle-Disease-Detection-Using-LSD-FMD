@@ -1,1 +1,1 @@
-# Enhancing-Cattle-Disease-Detection-Using-LSD-FMD
+Developed a model ensemble combining VGG16 and InceptionV3 for accurately detecting Foot-and-Mouth Disease (FMD) and Lumpy Skin Disease (LSD) in cattle images. We have achieved superior accuracy and sensitivity compared to existing models like Resnet50 and Inception.
